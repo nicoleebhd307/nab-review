@@ -27,3 +27,13 @@
 
 - git log 
 - git log --decorate --graph --oneline 
+
+### Nâng cao  
+Chia mỗi feature thành 1 nhánh riêng 
+- git branch : tạo nhánh 
+- git checkout : chuyển nhánh 
+- git merge : gộp  
+
+Pull Request 
+- Tạo 1 yêu cầu merge code của mình vào code trên repo 
+- Giúp commit ngắn gọn hơn, hỗ trợ code review, ngăn code ẩu  
